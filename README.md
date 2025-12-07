@@ -102,5 +102,5 @@ Keunikan dari project ini terletak pada **Antarmuka Pengguna (UI)**. Berbeda den
 ---
 
 <p align="center">
-  Created with ❤️ by <b>Ubay Dillah</b>
+  Created with ❤️ by <b>BAY</b>
 </p>
