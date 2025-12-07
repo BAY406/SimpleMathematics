@@ -95,8 +95,8 @@ Keunikan dari project ini terletak pada **Antarmuka Pengguna (UI)**. Berbeda den
 </p>
 
 <p align="center">
-  <b>Calculator & Geometry Mode</b><br>
-  <img src="media/out2.png" alt="Calculator Mode" width="45%">
+  <b>Calculator Menu</b><br>
+  <img src="media/out2.png" alt="Calculator Mode" width="100%">
 </p>
 
 ---
