@@ -91,7 +91,7 @@ Keunikan dari project ini terletak pada **Antarmuka Pengguna (UI)**. Berbeda den
 
 <p align="center">
   <b>Main Menu Interface</b><br>
-  <img src="media/out2.png" alt="Main Menu" width="600">
+  <img src="media/out2.png" alt="Main Menu" width="100%">
 </p>
 
 <p align="center">
