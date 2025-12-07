@@ -87,6 +87,19 @@ Keunikan dari project ini terletak pada **Antarmuka Pengguna (UI)**. Berbeda den
     ```
 
 ---
+## 📸 Screenshots
+
+<p align="center">
+  <b>Main Menu Interface</b><br>
+  <img src="media/out2.png" alt="Main Menu" width="600">
+</p>
+
+<p align="center">
+  <b>Calculator & Geometry Mode</b><br>
+  <img src="media/out2.png" alt="Calculator Mode" width="45%">
+</p>
+
+---
 
 <p align="center">
   Created with ❤️ by <b>Ubay Dillah</b>
